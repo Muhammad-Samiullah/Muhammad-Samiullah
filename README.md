@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muhammad-Samiullah
-- 👀 I’m interested in Python, JavaScript, C++
-- 🌱 I’m currently learning ML, React.js
-- 💞️ I’m looking to collaborate on AI
+- 👀 I’m interested in Web Development, Web Scraping, Wordpress Plugin Development, Wordpress Template Development
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 Reach me on gmail samipervaiz7863@gmail.com
 
 <!---
